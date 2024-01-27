@@ -262,3 +262,16 @@ caption {
       transform: rotate(360deg);
     }
   }
+
+  
+  @media (max-width: 551px) {
+    main{
+      font-size: 14px;
+    }
+  }
+
+  @media (max-width: 380px) {
+    main{
+      font-size: 10px;
+    }
+  }
